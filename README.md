@@ -61,5 +61,4 @@ Frontend Developer |
 
 ---
 
-⭐ If you like this project, feel free to star the repository and share your feedback!
 
